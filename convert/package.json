@@ -1,0 +1,20 @@
+{
+  "name": "convert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert.js",
+  "scripts": {
+    "preinstall": "npx npm-force-resolutions"
+  },
+  "resolutions": {
+    "graceful-fs": "4.2.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "foxr": "^0.10.1",
+    "fs": "0.0.1-security",
+    "jsonfile": "^6.0.1",
+    "webshot": "^0.18.0"
+  }
+}

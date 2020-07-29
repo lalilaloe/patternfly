@@ -129,6 +129,7 @@
     "html2canvas": "^1.0.0-rc.5",
     "jsonfile": "^6.0.1",
     "puppeteer": "^5.2.1",
-    "scrape-it": "^5.2.3"
+    "scrape-it": "^5.2.3",
+    "webshot": "^0.18.0"
   }
 }
